@@ -9,7 +9,7 @@ nav {
   left: 0;
 }
 li {
-  display: inline;
+  display: inline-block;
   padding: 3px;
   margin: 5px;
   float: right;
