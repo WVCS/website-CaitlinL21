@@ -2,14 +2,13 @@ nav {
   list-style-type: none;
   position: fixed;
   background-color: none;
-  width: 100;
   margin: 0;
   padding: 0;
   top: 0;
   left: 0;
 }
 li {
-  display: list-item;
+  display: inline;
   padding: 3px;
   margin: 5px;
   float: left;
