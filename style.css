@@ -28,10 +28,15 @@ h1 {
   text-align: center;
   text-shadow: 2px 2px red;
 }
+h3 {
+  color: blue;
+  text-align: center;
+  text-shadow: 1px 1px red;
+}
 body {
-  background-color: white;
+  background-color: antiquewhite;
 }
 img {
   border: none;
-  width: 58%;
+  width: 50%;
 }
